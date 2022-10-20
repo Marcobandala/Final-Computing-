@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+ul {
+	list-style-type-: none;
+    margin: 0;
+    padding:0 ;
+}
+li {
+	float:left;
+}
+a:link, a:visited{
+	display: block;
+    width: 120px;
+    background-color: yellowgreen;
+    color: black;
+    text-decelration: none;
+    text-allign: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding 5px;
+}
+a:hover, a:active{ 
+	background-color: blue;
+}
+
+</style>
+</body>
+</html>
+
+<ul> 
+
+	<li><a href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">abaut</a></li>
+</ul>
+
+</body>
+</html>
